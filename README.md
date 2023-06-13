@@ -31,3 +31,13 @@ D2NN-plus = D2NN + Beam-Diffraction
 4. ***Similar Accuracy*** with D2NN.
 
 The accuracy of D2NN model is troubling me for a long time. It seems difficult to be optimized to 90% accuracy.
+
+
+
+---------------
+
+**Congratulations!**
+
+By using 4F system D2NN, I've got **97%** Accuracy for **MNIST** validation dataset.
+
+Now, I'm trying to apply D2NN on **CIFAR-10** dataset with multichannel explorations. ***God Blessing Me !***
